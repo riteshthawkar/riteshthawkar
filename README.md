@@ -5,10 +5,18 @@ I work on multimodal AI systems for visual reasoning, generation, retrieval, and
 Currently, I am focused on self-evolving vision-language models, grounded VideoQA, multimodal evaluation, and practical RAG/agent systems.
 
 <p>
-  <a href="https://scholar.google.com/citations?hl=en&user=9-2AnjQAAAAJ">Google Scholar</a> |
-  <a href="https://huggingface.co/Ritesh-hf">Hugging Face</a> |
-  <a href="https://www.linkedin.com/in/ritesh-thawkar-b13192233/">LinkedIn</a> |
-  <a href="https://github.com/riteshthawkar">GitHub</a>
+  <a href="https://scholar.google.com/citations?hl=en&user=9-2AnjQAAAAJ">
+    <img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white">
+  </a>
+  <a href="https://huggingface.co/Ritesh-hf">
+    <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
+  </a>
+  <a href="https://www.linkedin.com/in/ritesh-thawkar-b13192233/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/riteshthawkar">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
 
 ## Current Focus
