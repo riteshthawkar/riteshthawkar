@@ -36,6 +36,17 @@ Currently, I am focused on self-evolving vision-language models, grounded VideoQ
 | Self-Evolve Image Editing | Experiments around self-evolving methods for image editing. | [Code](https://github.com/riteshthawkar/self-evolve-image-editing) |
 | Visual Intelligence Leaderboard | Benchmark and leaderboard tooling for visual intelligence experiments. | [Code](https://github.com/riteshthawkar/leaderboard) |
 
+## Pinned Repositories
+
+| Repository | Focus |
+| --- | --- |
+| [mbzuai-oryx/Ask-Solve-Generate](https://github.com/mbzuai-oryx/Ask-Solve-Generate) | Self-evolving unified multimodal understanding and generation via self-consistency rewards. |
+| [mbzuai-oryx/EvoLMM](https://github.com/mbzuai-oryx/EvoLMM) | Self-evolving large multimodal models with continuous rewards. |
+| [mbzuai-oryx/FannOrFlop](https://github.com/mbzuai-oryx/FannOrFlop) | Multigenre, multiera benchmark for Arabic poetry understanding in LLMs. |
+| [riteshthawkar/BookRAG](https://github.com/riteshthawkar/BookRAG) | Book and document RAG workspace. |
+| [riteshthawkar/financegpt](https://github.com/riteshthawkar/financegpt) | FastAPI and LangChain finance assistant with stock data and market tools. |
+| [riteshthawkar/adaptive-evidence-grounded-videoqa](https://github.com/riteshthawkar/adaptive-evidence-grounded-videoqa) | Budget-aware visual evidence selection and grounding analysis for VideoQA. |
+
 ## Research Interests
 
 - Multimodal understanding and generation
