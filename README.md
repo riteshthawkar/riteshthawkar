@@ -47,7 +47,7 @@ Currently, I am focused on self-evolving vision-language models, grounded VideoQ
 
 ## Tools
 
-Python, PyTorch, Hugging Face, Transformers, Gradio, TypeScript, JavaScript, and GitHub Pages.
+Python, PyTorch, Transformers, LLMs/MLLMs, RAG, vector databases, FastAPI, Flask, Django, PostgreSQL, TypeScript, and JavaScript.
 
 ## What I Am Building Toward
 
