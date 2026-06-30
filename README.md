@@ -31,21 +31,11 @@ Currently, I am focused on self-evolving vision-language models, grounded VideoQ
 | Project | What it is | Links |
 | --- | --- | --- |
 | Ask-Solve-Generate | Self-evolving unified multimodal understanding and generation via self-consistency rewards. | [Code](https://github.com/mbzuai-oryx/Ask-Solve-Generate), [Project](https://mbzuai-oryx.github.io/Ask-Solve-Generate/), [Paper](https://arxiv.org/abs/2606.27376), [Models](https://huggingface.co/collections/Ritesh-hf/ask-solve-generate-paper-models) |
-| Self-Evolving UUG | Project page and implementation work around self-evolving unified understanding and generation. | [Code](https://github.com/riteshthawkar/self-evolving-uug), [Project](https://riteshthawkar.github.io/self-evolving-uug/) |
+| EvoLMM | Self-evolving large multimodal models with continuous rewards. | [Code](https://github.com/mbzuai-oryx/EvoLMM), [Project](https://mbzuai-oryx.github.io/EvoLMM/) |
+| FannOrFlop | Multigenre, multiera benchmark for Arabic poetry understanding in LLMs. | [Code](https://github.com/mbzuai-oryx/FannOrFlop), [Project](https://mbzuai-oryx.github.io/FannOrFlop/) |
+| BookRAG | Book and document RAG workspace. | [Code](https://github.com/riteshthawkar/BookRAG) |
+| financegpt | FastAPI and LangChain finance assistant with stock data and market tools. | [Code](https://github.com/riteshthawkar/financegpt) |
 | Adaptive Evidence-Grounded VideoQA | Budget-aware visual evidence selection and grounding analysis for VideoQA. | [Code](https://github.com/riteshthawkar/adaptive-evidence-grounded-videoqa) |
-| Self-Evolve Image Editing | Experiments around self-evolving methods for image editing. | [Code](https://github.com/riteshthawkar/self-evolve-image-editing) |
-| Visual Intelligence Leaderboard | Benchmark and leaderboard tooling for visual intelligence experiments. | [Code](https://github.com/riteshthawkar/leaderboard) |
-
-## Pinned Repositories
-
-| Repository | Focus |
-| --- | --- |
-| [mbzuai-oryx/Ask-Solve-Generate](https://github.com/mbzuai-oryx/Ask-Solve-Generate) | Self-evolving unified multimodal understanding and generation via self-consistency rewards. |
-| [mbzuai-oryx/EvoLMM](https://github.com/mbzuai-oryx/EvoLMM) | Self-evolving large multimodal models with continuous rewards. |
-| [mbzuai-oryx/FannOrFlop](https://github.com/mbzuai-oryx/FannOrFlop) | Multigenre, multiera benchmark for Arabic poetry understanding in LLMs. |
-| [riteshthawkar/BookRAG](https://github.com/riteshthawkar/BookRAG) | Book and document RAG workspace. |
-| [riteshthawkar/financegpt](https://github.com/riteshthawkar/financegpt) | FastAPI and LangChain finance assistant with stock data and market tools. |
-| [riteshthawkar/adaptive-evidence-grounded-videoqa](https://github.com/riteshthawkar/adaptive-evidence-grounded-videoqa) | Budget-aware visual evidence selection and grounding analysis for VideoQA. |
 
 ## Research Interests
 
