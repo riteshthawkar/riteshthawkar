@@ -5,6 +5,9 @@ I work on multimodal AI systems for visual reasoning, generation, retrieval, and
 Currently, I am focused on self-evolving vision-language models, grounded VideoQA, multimodal evaluation, and practical RAG/agent systems.
 
 <p>
+  <a href="https://riteshthawkar.github.io/Portfolio-website/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0B7285?style=for-the-badge&logo=googlechrome&logoColor=white">
+  </a>
   <a href="https://scholar.google.com/citations?hl=en&user=9-2AnjQAAAAJ">
     <img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white">
   </a>
