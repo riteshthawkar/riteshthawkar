@@ -44,24 +44,27 @@ Currently, I am focused on self-evolving vision-language models, grounded VideoQ
 
 Python, PyTorch, Transformers, LLMs/MLLMs, RAG, vector databases, FastAPI, Flask, Django, PostgreSQL, TypeScript, and JavaScript.
 
-## Selected Work
-
-| Project | What it is | Links |
-| --- | --- | --- |
-| Ask-Solve-Generate | Self-evolving unified multimodal understanding and generation via self-consistency rewards. | [Code](https://github.com/mbzuai-oryx/Ask-Solve-Generate), [Project](https://mbzuai-oryx.github.io/Ask-Solve-Generate/), [Paper](https://arxiv.org/abs/2606.27376), [Models](https://huggingface.co/collections/Ritesh-hf/ask-solve-generate-paper-models) |
-| EvoLMM | Self-evolving large multimodal models with continuous rewards. | [Code](https://github.com/mbzuai-oryx/EvoLMM), [Project](https://mbzuai-oryx.github.io/EvoLMM/) |
-| FannOrFlop | Multigenre, multiera benchmark for Arabic poetry understanding in LLMs. | [Code](https://github.com/mbzuai-oryx/FannOrFlop), [Project](https://mbzuai-oryx.github.io/FannOrFlop/) |
-| BookRAG | Book and document RAG workspace. | [Code](https://github.com/riteshthawkar/BookRAG) |
-| financegpt | FastAPI and LangChain finance assistant with stock data and market tools. | [Code](https://github.com/riteshthawkar/financegpt) |
-| Adaptive Evidence-Grounded VideoQA | Budget-aware visual evidence selection and grounding analysis for VideoQA. | [Code](https://github.com/riteshthawkar/adaptive-evidence-grounded-videoqa) |
-
 ## Publications
 
 | Work | Status | Links |
 | --- | --- | --- |
 | Ask, Solve, Generate: Self-Evolving Unified Multimodal Understanding and Generation via Self-Consistency Rewards | arXiv, 2026 | [Paper](https://arxiv.org/abs/2606.27376), [Project](https://mbzuai-oryx.github.io/Ask-Solve-Generate/), [Code](https://github.com/mbzuai-oryx/Ask-Solve-Generate), [Models](https://huggingface.co/collections/Ritesh-hf/ask-solve-generate-paper-models) |
-| EvoLMM: Self-Evolving Large Multimodal Models with Continuous Rewards | arXiv, 2025 | [Paper](https://arxiv.org/abs/2511.16672), [Project](https://mbzuai-oryx.github.io/EvoLMM/), [Code](https://github.com/mbzuai-oryx/EvoLMM), [Models](https://huggingface.co/omkarthawakar/EvoLMM) |
+| EvoLMM: Self-Evolving Large Multimodal Models with Continuous Rewards | CVPR 2026 Findings | [Paper](https://arxiv.org/abs/2511.16672), [Project](https://mbzuai-oryx.github.io/EvoLMM/), [Code](https://github.com/mbzuai-oryx/EvoLMM), [Models](https://huggingface.co/omkarthawakar/EvoLMM) |
+| Mobile-O: Unified Multimodal Understanding and Generation on Mobile Device | arXiv, 2026 | [Paper](https://arxiv.org/abs/2602.20161), [Project](https://amshaker.github.io/Mobile-O/), [Code](https://github.com/Amshaker/Mobile-O) |
 | Fann or Flop: A Multigenre, Multiera Benchmark for Arabic Poetry Understanding in LLMs | EMNLP 2025 | [Paper](https://arxiv.org/abs/2505.18152), [Project](https://mbzuai-oryx.github.io/FannOrFlop/), [Code](https://github.com/mbzuai-oryx/FannOrFlop), [Dataset](https://huggingface.co/datasets/omkarthawakar/FannOrFlop) |
+| LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LMMs | ACL Findings 2025 | [Paper](https://aclanthology.org/2025.findings-acl.1247/), [Project](https://mbzuai-oryx.github.io/LlamaV-o1/), [Code](https://github.com/mbzuai-oryx/LlamaV-o1), [Models](https://huggingface.co/omkarthawakar/LlamaV-o1) |
+| Time Travel: A Comprehensive Benchmark to Evaluate LMMs on Historical and Cultural Artifacts | ACL Findings 2025 | [Paper](https://aclanthology.org/2025.findings-acl.1211/), [Project](https://mbzuai-oryx.github.io/TimeTravel/), [Code](https://github.com/mbzuai-oryx/timetravel) |
+| Beyond Simple Edits: Composed Video Retrieval with Dense Modifications | ICCV 2025 | [Paper](https://arxiv.org/abs/2508.14039), [Code](https://github.com/OmkarThawakar/BSE-CoVR) |
+
+## Featured Projects
+
+| Project | What it is | Links |
+| --- | --- | --- |
+| Portfolio Website | Personal portfolio for research, publications, experience, projects, and technical stack. | [Site](https://riteshthawkar.github.io/Portfolio-website/), [Code](https://github.com/riteshthawkar/Portfolio-website) |
+| Adaptive Evidence-Grounded VideoQA | Budget-aware visual evidence selection and grounding analysis for VideoQA. | [Code](https://github.com/riteshthawkar/adaptive-evidence-grounded-videoqa) |
+| Visual Intelligence Leaderboard | Benchmark and leaderboard tooling for visual intelligence experiments. | [Code](https://github.com/riteshthawkar/leaderboard) |
+| BookRAG | Book and document RAG workspace. | [Code](https://github.com/riteshthawkar/BookRAG) |
+| financegpt | FastAPI and LangChain finance assistant with stock data and market tools. | [Code](https://github.com/riteshthawkar/financegpt) |
 
 ## Research Interests
 
