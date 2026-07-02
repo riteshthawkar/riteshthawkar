@@ -6,19 +6,19 @@ Currently, I am focused on self-evolving vision-language models, grounded VideoQ
 
 <p>
   <a href="https://riteshthawkar.github.io/Portfolio-website/">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0B7285?style=for-the-badge&logo=googlechrome&logoColor=white">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0B7285?style=flat&logo=googlechrome&logoColor=white">
   </a>
   <a href="https://scholar.google.com/citations?hl=en&user=9-2AnjQAAAAJ">
-    <img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white">
+    <img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white">
   </a>
   <a href="https://huggingface.co/Ritesh-hf">
-    <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
+    <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black">
   </a>
   <a href="https://www.linkedin.com/in/ritesh-thawkar-b13192233/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/riteshthawkar">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
   </a>
 </p>
 
