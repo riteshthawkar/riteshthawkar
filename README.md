@@ -60,7 +60,6 @@ Python, PyTorch, Transformers, LLMs/MLLMs, RAG, vector databases, FastAPI, Flask
 
 | Project | What it is | Links |
 | --- | --- | --- |
-| Portfolio Website | Personal portfolio for research, publications, experience, projects, and technical stack. | [Site](https://riteshthawkar.github.io/Portfolio-website/), [Code](https://github.com/riteshthawkar/Portfolio-website) |
 | Adaptive Evidence-Grounded VideoQA | Budget-aware visual evidence selection and grounding analysis for VideoQA. | [Code](https://github.com/riteshthawkar/adaptive-evidence-grounded-videoqa) |
 | Visual Intelligence Leaderboard | Benchmark and leaderboard tooling for visual intelligence experiments. | [Code](https://github.com/riteshthawkar/leaderboard) |
 | BookRAG | Book and document RAG workspace. | [Code](https://github.com/riteshthawkar/BookRAG) |
